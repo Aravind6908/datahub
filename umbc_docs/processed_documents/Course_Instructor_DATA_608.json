@@ -1,0 +1,39 @@
+{
+    "DocumentID": "Probability and Statistics for Data Science",
+    "ChunkID": 0,
+    "ChunkText": {
+        "Course Code": "DATA 608",
+        "Sections": [
+            {
+                "Section": "01",
+                "Class Number": 6701,
+                "Days": "Tuesday",
+                "Start Time": "4:00 PM",
+                "End Time": "6:30 PM",
+                "Room": "Janet & Walter Sondheim 109",
+                "Instructor": "Zeynep Kacar",
+                "Units": 3,
+                "Status": "Closed",
+                "Available Seats": 0,
+                "Total Seats": 25,
+                "Campus": "Main Campus",
+                "Instruction Mode": "Hybrid"
+            },
+            {
+                "Section": "02",
+                "Class Number": 6702,
+                "Days": "Wednesday",
+                "Start Time": "4:00 PM",
+                "End Time": "6:30 PM",
+                "Room": "WEB",
+                "Instructor": "Zeynep Kacar",
+                "Units": 3,
+                "Status": "Open",
+                "Available Seats": 17,
+                "Total Seats": 20,
+                "Campus": "Main Campus",
+                "Instruction Mode": "Online"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "DocumentID": "Independent Study for Interns and Co-op Students",
+    "ChunkID": 0,
+    "ChunkText": {
+        "Course Code": "DATA 696",
+        "Sections": [
+            {
+                "Section": "01",
+                "Class Number": 2290,
+                "Days": "TBA",
+                "Start Time": "12:00 AM",
+                "End Time": "12:00 PM",
+                "Room": "TBA",
+                "Instructor": "Ergun Simsek",
+                "Units": "1 - 3",
+                "Status": "Open",
+                "Available Seats": 10,
+                "Total Seats": 10,
+                "Campus": "Main Campus",
+                "Instruction Mode": "In Person"
+            }
+        ]
+    }
+}

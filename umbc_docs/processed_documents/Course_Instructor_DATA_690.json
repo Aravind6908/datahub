@@ -1,0 +1,42 @@
+{
+    "DocumentID": "Special Topics in Data Science",
+    "ChunkID": 0,
+    "ChunkText": {
+        "Course Code": "DATA 690",
+        "Sections": [
+            {
+                "Section": "01",
+                "Class Number": 2051,
+                "Topic": "Data Structures & Algorithms",
+                "Days": "Thursday",
+                "Start Time": "4:00 PM",
+                "End Time": "6:30 PM",
+                "Room": "Information Technology 241",
+                "Instructor": "Ajinkya Borle",
+                "Units": 3,
+                "Status": "Open",
+                "Available Seats": 1,
+                "Total Seats": 25,
+                "Campus": "Main Campus",
+                "Instruction Mode": "In Person"
+            },
+            {
+                "Section": "02",
+                "Class Number": 2052,
+                "Topic": "Practical Deep Learning",
+                "Days": "Monday",
+                "Start Time": "6:00 PM",
+                "End Time": "8:30 PM",
+                "Room": "WEB",
+                "Instructor": "Weizhe Li",
+                "Units": 3,
+                "Status": "Open",
+                "Available Seats": 15,
+                "Total Seats": 25,
+                "Campus": "Main Campus",
+                "Instruction Mode": "Online"
+            }
+            
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "DocumentID": "Independent Study in Data Science",
+    "ChunkID": 0,
+    "ChunkText": {
+        "Course Code": "DATA 699",
+        "Sections": [
+            {
+                "Section": "01",
+                "Class Number": 2291,
+                "Days": "TBA",
+                "Start Time": "12:00 AM",
+                "End Time": "12:00 PM",
+                "Room": "TBA",
+                "Instructor": "Ajinkya Borle",
+                "Units": "1 - 3",
+                "Status": "Open",
+                "Available Seats": 5,
+                "Total Seats": 5,
+                "Campus": "Main Campus",
+                "Instruction Mode": "In Person"
+            },
+            {
+                "Section": "02",
+                "Class Number": 2415,
+                "Days": "TBA",
+                "Start Time": "12:00 PM",
+                "End Time": "12:00 PM",
+                "Room": "TBA",
+                "Instructor": "Masoud Soroush",
+                "Units": "1 - 3",
+                "Status": "Open",
+                "Available Seats": 5,
+                "Total Seats": 5,
+                "Campus": "Main Campus",
+                "Instruction Mode": "In Person"
+            }
+            
+        ]
+    }
+}

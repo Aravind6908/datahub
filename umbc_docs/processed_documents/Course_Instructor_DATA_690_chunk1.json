@@ -1,0 +1,41 @@
+{
+    "DocumentID": "Special Topics in Data Science",
+    "ChunkID": 1,
+    "ChunkText": {
+        "Course Code": "DATA 690",
+        "Sections": [
+            {
+                "Section": "03",
+                "Class Number": 2061,
+                "Topic": "Practical Deep Learning",
+                "Days": "Wednesday",
+                "Start Time": "7:10 PM",
+                "End Time": "9:40 PM",
+                "Room": "WEB",
+                "Instructor": "Andre Nguyen",
+                "Units": 3,
+                "Status": "Open",
+                "Available Seats": 23,
+                "Total Seats": 25,
+                "Campus": "Main Campus",
+                "Instruction Mode": "Online"
+            },
+            {
+                "Section": "04",
+                "Class Number": 2085,
+                "Topic": "Storytelling & Communications",
+                "Days": "Thursday",
+                "Start Time": "7:10 PM",
+                "End Time": "9:40 PM",
+                "Room": "WEB",
+                "Instructor": "Sunela Thomas",
+                "Units": 3,
+                "Status": "Open",
+                "Available Seats": 23,
+                "Total Seats": 25,
+                "Campus": "Main Campus",
+                "Instruction Mode": "Online"
+            }
+        ]
+    }
+}

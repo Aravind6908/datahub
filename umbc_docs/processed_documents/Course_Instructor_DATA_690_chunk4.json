@@ -1,0 +1,26 @@
+{
+    "DocumentID": "Special Topics in Data Science",
+    "ChunkID": 4,
+    "ChunkText": {
+        "Course Code": "DATA 690",
+        "Sections": [
+          
+            {
+                "Section": "10",
+                "Class Number": 6914,
+                "Topic": "Artificial Intelligence Pract",
+                "Days": "Wednesday",
+                "Start Time": "7:10 PM",
+                "End Time": "9:40 PM",
+                "Room": "Performing Arts & Humani 107",
+                "Instructor": "Levan Sulimanov",
+                "Units": 3,
+                "Status": "Open",
+                "Available Seats": 20,
+                "Total Seats": 25,
+                "Campus": "Main Campus",
+                "Instruction Mode": "In Person"
+            }
+        ]
+    }
+}

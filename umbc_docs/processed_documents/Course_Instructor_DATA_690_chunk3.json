@@ -1,0 +1,42 @@
+{
+    "DocumentID": "Special Topics in Data Science",
+    "ChunkID": 3,
+    "ChunkText": {
+        "Course Code": "DATA 690",
+        "Sections": [
+            
+            {
+                "Section": "08",
+                "Class Number": 2289,
+                "Topic": "Large Language Models",
+                "Days": "Tuesday",
+                "Start Time": "7:10 PM",
+                "End Time": "9:40 PM",
+                "Room": "Fine Arts 001",
+                "Instructor": "Donghwa Kim",
+                "Units": 3,
+                "Status": "Open",
+                "Available Seats": 17,
+                "Total Seats": 25,
+                "Campus": "Main Campus",
+                "Instruction Mode": "Hybrid"
+            },
+            {
+                "Section": "09",
+                "Class Number": 2296,
+                "Topic": "Math Foundations Machine Learn.",
+                "Days": "Monday",
+                "Start Time": "7:10 PM",
+                "End Time": "9:40 PM",
+                "Room": "WEB",
+                "Instructor": "Xin Xue",
+                "Units": 3,
+                "Status": "Open",
+                "Available Seats": 23,
+                "Total Seats": 25,
+                "Campus": "Main Campus",
+                "Instruction Mode": "Online"
+            }
+        ]
+    }
+}

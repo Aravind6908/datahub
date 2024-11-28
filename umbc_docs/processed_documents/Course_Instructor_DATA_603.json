@@ -1,0 +1,40 @@
+{
+    "DocumentID": "Platforms for Big Data Processing",
+    "ChunkID": 0,
+    "ChunkText": {
+        "Course Code": "DATA 603",
+        "Sections": [
+            {
+                "Section": "01",
+                "Class Number": 1985,
+                "Days": "Monday",
+                "Start Time": "7:10 PM",
+                "End Time": "9:40 PM",
+                "Room": "Information Technology 241",
+                "Instructor": "Waleed Youssef",
+                "Units": 3,
+                "Status": "Closed",
+                "Available Seats": 0,
+                "Total Seats": 25,
+                "Campus": "Main Campus",
+                "Instruction Mode": "In Person"
+            },
+            {
+                "Section": "02",
+                "Class Number": 2082,
+                "Days": "Tuesday",
+                "Start Time": "7:10 PM",
+                "End Time": "9:40 PM",
+                "Room": "Physics 201",
+                "Instructor": "Najam Hassan",
+                "Units": 3,
+                "Status": "Closed",
+                "Available Seats": 0,
+                "Total Seats": 25,
+                "Campus": "Main Campus",
+                "Instruction Mode": "In Person"
+            }
+            
+        ]
+    }
+}

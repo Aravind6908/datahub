@@ -1,0 +1,39 @@
+{
+    "DocumentID": "Capstone in Data Science",
+    "ChunkID": 0,
+    "ChunkText": {
+        "Course Code": "DATA 606",
+        "Sections": [
+            {
+                "Section": "01",
+                "Class Number": 2017,
+                "Days": "Monday",
+                "Start Time": "6:00 PM",
+                "End Time": "8:30 PM",
+                "Room": "Sherman Hall 015",
+                "Instructor": "Masoud Soroush",
+                "Units": 3,
+                "Status": "Open",
+                "Available Seats": 18,
+                "Total Seats": 25,
+                "Campus": "Main Campus",
+                "Instruction Mode": "Hybrid"
+            },
+            {
+                "Section": "02",
+                "Class Number": 2053,
+                "Days": "Wednesday",
+                "Start Time": "6:00 PM",
+                "End Time": "8:30 PM",
+                "Room": "Janet & Walter Sondheim 114",
+                "Instructor": "Masoud Soroush",
+                "Units": 3,
+                "Status": "Open",
+                "Available Seats": 1,
+                "Total Seats": 25,
+                "Campus": "Main Campus",
+                "Instruction Mode": "Hybrid"
+            }
+        ]
+    }
+}

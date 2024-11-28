@@ -1,0 +1,40 @@
+{
+    "DocumentID": "Data Management",
+    "ChunkID": 0,
+    "ChunkText": {
+        "Course Code": "DATA 604",
+        "Sections": [
+            {
+                "Section": "02",
+                "Class Number": 2115,
+                "Days": "Tuesday",
+                "Start Time": "7:10 PM",
+                "End Time": "9:40 PM",
+                "Room": "Fine Arts 018",
+                "Instructor": "Mesfin Abate",
+                "Units": 3,
+                "Status": "Open",
+                "Available Seats": 17,
+                "Total Seats": 25,
+                "Campus": "Main Campus",
+                "Instruction Mode": "In Person"
+            },
+            {
+                "Section": "03",
+                "Class Number": 2135,
+                "Days": "Thursday",
+                "Start Time": "7:10 PM",
+                "End Time": "9:40 PM",
+                "Room": "WEB",
+                "Instructor": "Jyotsna Potarazu",
+                "Units": 3,
+                "Status": "Open",
+                "Available Seats": 6,
+                "Total Seats": 20,
+                "Campus": "Main Campus",
+                "Instruction Mode": "Online"
+            }
+            
+        ]
+    }
+}

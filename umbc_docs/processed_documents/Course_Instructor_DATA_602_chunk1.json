@@ -1,0 +1,54 @@
+{
+    "DocumentID": "Intro to Data Analysis and Machine Learning",
+    "ChunkID": 1,
+    "ChunkText": {
+        "Course Code": "DATA 602",
+        "Sections": [
+            {
+                "Section": "03",
+                "Class Number": 2130,
+                "Days": "Tuesday",
+                "Start Time": "4:00 PM",
+                "End Time": "6:30 PM",
+                "Room": "Fine Arts 215",
+                "Instructor": "Masoud Soroush",
+                "Units": 3,
+                "Status": "Open",
+                "Available Seats": 11,
+                "Total Seats": 25,
+                "Campus": "Main Campus",
+                "Instruction Mode": "In Person"
+            },
+            {
+                "Section": "04",
+                "Class Number": 2131,
+                "Days": "Thursday",
+                "Start Time": "12:30 PM",
+                "End Time": "3:00 PM",
+                "Room": "WEB",
+                "Instructor": "Yalin Bastanlar",
+                "Units": 3,
+                "Status": "Open",
+                "Available Seats": 1,
+                "Total Seats": 20,
+                "Campus": "Main Campus",
+                "Instruction Mode": "Online"
+            },
+            {
+                "Section": "05",
+                "Class Number": 6732,
+                "Days": "Monday",
+                "Start Time": "7:10 PM",
+                "End Time": "9:40 PM",
+                "Room": "Shady Grove Building III 2203",
+                "Instructor": "Ergun Kacar",
+                "Units": 3,
+                "Status": "Open",
+                "Available Seats": 23,
+                "Total Seats": 25,
+                "Campus": "Shady Grove",
+                "Instruction Mode": "In Person"
+            }
+        ]
+    }
+}

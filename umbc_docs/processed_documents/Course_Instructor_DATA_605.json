@@ -1,0 +1,54 @@
+{
+    "DocumentID": "Ethical and Legal Issues in Data Science",
+    "ChunkID": 0,
+    "ChunkText": {
+        "Course Code": "DATA 605",
+        "Sections": [
+            {
+                "Section": "02",
+                "Class Number": 2083,
+                "Days": "Tuesday",
+                "Start Time": "10:10 AM",
+                "End Time": "12:40 PM",
+                "Room": "WEB",
+                "Instructor": "Jennifer Esworthy",
+                "Units": 3,
+                "Status": "Open",
+                "Available Seats": 23,
+                "Total Seats": 25,
+                "Campus": "Main Campus",
+                "Instruction Mode": "Hybrid - Primarily Online"
+            },
+            {
+                "Section": "03",
+                "Class Number": 2204,
+                "Days": "Wednesday",
+                "Start Time": "3:00 PM",
+                "End Time": "4:30 PM",
+                "Room": "WEB",
+                "Instructor": "Oylum Akkus Ispir",
+                "Units": 3,
+                "Status": "Open",
+                "Available Seats": 12,
+                "Total Seats": 20,
+                "Campus": "Main Campus",
+                "Instruction Mode": "Online"
+            },
+            {
+                "Section": "04",
+                "Class Number": 6737,
+                "Days": "Wednesday",
+                "Start Time": "7:10 PM",
+                "End Time": "9:40 PM",
+                "Room": "WEB",
+                "Instructor": "Sarah Sowden",
+                "Units": 3,
+                "Status": "Open",
+                "Available Seats": 14,
+                "Total Seats": 25,
+                "Campus": "Shady Grove",
+                "Instruction Mode": "Online"
+            }
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+        "DocumentID": "Introduction to Data Science",
+        "ChunkID": 0,
+        "ChunkText": {
+            "Course Code": "DATA 601",
+            "Sections": [
+                {
+                    "Section": "01",
+                    "Class Number": 2019,
+                    "Days": "Monday",
+                    "Start Time": "4:00 PM",
+                    "End Time": "6:30 PM",
+                    "Room": "Information Technology 239",
+                    "Instructor": "Ajinkya Borle",
+                    "Units": 3,
+                    "Status": "Open",
+                    "Available Seats": 23,
+                    "Total Seats": 25,
+                    "Campus": "Main Campus",
+                    "Instruction Mode": "In Person"
+                },
+                {
+                    "Section": "03",
+                    "Class Number": 2069,
+                    "Days": "Monday",
+                    "Start Time": "7:10 PM",
+                    "End Time": "9:40 PM",
+                    "Room": "WEB",
+                    "Instructor": "Samantha Luckhardt",
+                    "Units": 3,
+                    "Status": "Open",
+                    "Available Seats": 18,
+                    "Total Seats": 20,
+                    "Campus": "Main Campus",
+                    "Instruction Mode": "Online"
+                }
+                
+            ]
+        }
+    }

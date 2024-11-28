@@ -1,0 +1,24 @@
+{
+    "DocumentID": "Data Management",
+    "ChunkID": 1,
+    "ChunkText": {
+        "Course Code": "DATA 604",
+        "Sections": [
+            {
+                "Section": "04",
+                "Class Number": 6735,
+                "Days": "Thursday",
+                "Start Time": "7:10 PM",
+                "End Time": "9:40 PM",
+                "Room": "Shady Grove Building III 2203",
+                "Instructor": "Sarika Rajeev",
+                "Units": 3,
+                "Status": "Open",
+                "Available Seats": 22,
+                "Total Seats": 25,
+                "Campus": "Shady Grove",
+                "Instruction Mode": "In Person"
+            }
+        ]
+    }
+}

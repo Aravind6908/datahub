@@ -1,0 +1,39 @@
+{
+    "DocumentID": "Leadership in Data Science",
+    "ChunkID": 1,
+    "ChunkText": {
+        "Course Code": "DATA 607",
+        "Sections": [
+            {
+                "Section": "03",
+                "Class Number": 2408,
+                "Days": "Tuesday",
+                "Start Time": "3:00 PM",
+                "End Time": "4:30 PM",
+                "Room": "WEB",
+                "Instructor": "Oylum Akkus Ispir",
+                "Units": 3,
+                "Status": "Closed",
+                "Available Seats": 0,
+                "Total Seats": 25,
+                "Campus": "Main Campus",
+                "Instruction Mode": "Online"
+            },
+            {
+                "Section": "04",
+                "Class Number": 2409,
+                "Days": "Tuesday",
+                "Start Time": "7:10 PM",
+                "End Time": "9:40 PM",
+                "Room": "WEB",
+                "Instructor": "Sandeep Bansal",
+                "Units": 3,
+                "Status": "Closed",
+                "Available Seats": 0,
+                "Total Seats": 20,
+                "Campus": "Main Campus",
+                "Instruction Mode": "Online"
+            }
+        ]
+    }
+}

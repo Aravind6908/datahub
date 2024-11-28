@@ -1,0 +1,41 @@
+{
+    "DocumentID": "Special Topics in Data Science",
+    "ChunkID": 2,
+    "ChunkText": {
+        "Course Code": "DATA 690",
+        "Sections": [
+            {
+                "Section": "05",
+                "Class Number": 2086,
+                "Topic": "Intro to Natural Language Processing",
+                "Days": "Thursday",
+                "Start Time": "6:00 PM",
+                "End Time": "8:30 PM",
+                "Room": "Sherman Hall 011",
+                "Instructor": "Antonio Diana",
+                "Units": 3,
+                "Status": "Open",
+                "Available Seats": 11,
+                "Total Seats": 25,
+                "Campus": "Main Campus",
+                "Instruction Mode": "Hybrid"
+            },
+            {
+                "Section": "06",
+                "Class Number": 2278,
+                "Topic": "Financial Data Science",
+                "Days": "Monday",
+                "Start Time": "2:00 PM",
+                "End Time": "4:30 PM",
+                "Room": "WEB",
+                "Instructor": "Abdullah Karasan",
+                "Units": 3,
+                "Status": "Open",
+                "Available Seats": 12,
+                "Total Seats": 25,
+                "Campus": "Main Campus",
+                "Instruction Mode": "Online"
+            }
+        ]
+    }
+}

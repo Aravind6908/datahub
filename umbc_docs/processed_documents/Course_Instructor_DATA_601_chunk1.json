@@ -1,0 +1,24 @@
+{
+        "DocumentID": "Introduction to Data Science",
+        "ChunkID": 1,
+        "ChunkText": {
+            "Course Code": "DATA 601",
+            "Sections": [
+                {
+                    "Section": "04",
+                    "Class Number": 6731,
+                    "Days": "Monday",
+                    "Start Time": "7:10 PM",
+                    "End Time": "9:40 PM",
+                    "Room": "Shady Grove Building III 3226",
+                    "Instructor": "Felix Gonzalez",
+                    "Units": 3,
+                    "Status": "Open",
+                    "Available Seats": 25,
+                    "Total Seats": 25,
+                    "Campus": "Shady Grove",
+                    "Instruction Mode": "In Person"
+                }
+            ]
+        }
+    }
