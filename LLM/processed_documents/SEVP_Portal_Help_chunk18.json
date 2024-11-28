@@ -1,0 +1,7 @@
+{
+    "DocumentID": "SEVP_Portal_Help.docx",
+    "ChunkID": 18,
+    "ChunkText": "if this happens, first please try the reset password option from the sevp portal login screen. if this does not work, please contact us, and we can request the account to be unlocked and you will receive an email with directions on how to access the account again.",
+    "ContextBefore": "sevp portal troubleshooting try these following methods if you cannot access your sevp portal account: you forgot your password: go to the sevp portal login screen, click the reset password link, and follow the directions there. your sevp portal account is locked: your account will lock after 90 days if you do not access it.",
+    "ContextAfter": "your password reset is not working: please do not try to update your portal on your phone sevp recommends using a computer for this step. they also recommend clearing your browsing history, and if you are using google chrome and are still unable to make the change, try internet explorer."
+}
