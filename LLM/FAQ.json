@@ -1,0 +1,82 @@
+[
+    {
+        "question": "What services does the ISSS office provide?",
+        "answer": "The ISSS provides visa support, employment authorization guidance, cultural adjustment resources, and workshops for international students and scholars."
+    },
+    {
+        "question": "How can I contact the ISSS office?",
+        "answer": "You can contact them via email at isss@umbc.edu or visit their office during working hours. Additional contact options are available on the UMBC ISSS website."
+    },
+    {
+        "question": "How do I request an I-20?",
+        "answer": "Submit the necessary documents, including proof of financial support, through the ISSS Portal. You can find detailed instructions on their website."
+    },
+    {
+        "question": "What should I do if my visa expires while in the U.S.?",
+        "answer": "You can remain in the U.S. as long as your I-20 and SEVIS record are valid. Renew your visa during your next international trip."
+    },
+    {
+        "question": "What is SEVIS, and how do I pay the SEVIS fee?",
+        "answer": "SEVIS (Student and Exchange Visitor Information System) tracks international students in the U.S. You can pay the SEVIS fee online at FMJfee.com."
+    },
+    {
+        "question": "What are the full-time enrollment requirements?",
+        "answer": "Undergraduate students must enroll in at least 12 credits, while graduate students must enroll in at least 9 credits."
+    },
+    {
+        "question": "Can I take a Reduced Course Load (RCL)?",
+        "answer": "Yes, under specific conditions such as medical reasons or during your final semester. Apply for an RCL through the ISSS Portal."
+    },
+    {
+        "question": "Can I take online classes?",
+        "answer": "F-1 students can take one online course per semester as part of their full-time enrollment. The rest must be in-person or hybrid."
+    },
+    {
+        "question": "What is CPT, and how do I apply?",
+        "answer": "Curricular Practical Training (CPT) allows you to work off-campus in a job related to your degree. Submit your CPT request via the ISSS Portal with an offer letter from your employer."
+    },
+    {
+        "question": "What is OPT, and when can I apply?",
+        "answer": "Optional Practical Training (OPT) is temporary employment for F-1 students after graduation. You can apply 90 days before your program end date."
+    },
+    {
+        "question": "What is STEM OPT, and how is it different?",
+        "answer": "STEM OPT provides a 24-month extension to your OPT for STEM-designated degrees. Your employer must be enrolled in E-Verify."
+    },
+    {
+        "question": "What documents do I need to travel internationally?",
+        "answer": "Valid passport, F-1 visa, signed I-20, and proof of financial support."
+    },
+    {
+        "question": "Can I travel with an expired visa?",
+        "answer": "You must renew your visa before re-entering the U.S. unless you are eligible for Automatic Visa Revalidation."
+    },
+    {
+        "question": "What is Automatic Visa Revalidation?",
+        "answer": "F-1 students can re-enter the U.S. with an expired visa after short trips (less than 30 days) to Canada, Mexico, or the Caribbean, provided they meet certain conditions."
+    },
+    {
+        "question": "What are my options after graduation?",
+        "answer": "You can apply for OPT, STEM OPT (if eligible), or change to another visa type. Consult ISSS for advice on your specific situation."
+    },
+    {
+        "question": "What is the grace period after completing my program?",
+        "answer": "F-1 students have a 60-day grace period to leave the U.S., transfer to another school, or apply for OPT."
+    },
+    {
+        "question": "How do I access the ISSS Portal?",
+        "answer": "Log in using your UMBC credentials at isssportal.umbc.edu."
+    },
+    {
+        "question": "What should I do if I lose my passport or I-20?",
+        "answer": "Report the loss to ISSS immediately. For passports, contact your home country’s embassy in the U.S. For I-20s, request a replacement through the ISSS Portal."
+    },
+    {
+        "question": "How do I get a Social Security Number (SSN)?",
+        "answer": "You must have employment authorization (CPT/OPT) and a job offer. Submit an SSN letter request via the ISSS Portal."
+    },
+    {
+        "question": "What should I do if my I-20 is about to expire?",
+        "answer": "Submit an I-20 extension request through the ISSS Portal at least 30 days before the expiration date."
+    }
+]
